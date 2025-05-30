@@ -1,9 +1,9 @@
-# E-commerceWebsite
-This project deals with developing a Virtual website ‘E-commerce Website’. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process. The system is implemented using Python's web framework Django.
+Сайт кофейни
+Система реализована с использованием веб-фреймворка Python Django.
 
-1. Clone this repository into a folder on your computer
-2. Download Python
-3. Open terminal inside the folder with code.
-4. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
-5. Type python manage.py runserver to start a localhost server for the app.
-6. The API is started and now you can use the API routes to give requests.
+Клонируйте этот репозиторий в папку на вашем компьютере
+Скачать Python
+Откройте терминал в папке с кодом.
+Введите в окне терминала pip install -r requirements.txt, чтобы установить все необходимые для работы приложения компоненты.
+Введите python manage.py runserver, чтобы запустить локальный сервер для приложения.
+API запущено, и теперь вы можете использовать маршруты API для отправки запросов.
